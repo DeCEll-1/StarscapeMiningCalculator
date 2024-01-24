@@ -104,7 +104,7 @@ namespace SSMinerCalculator
 
             float result = ((orePerMinute * (1 + skillBoost)) * maxMiningTurrets) * (1 + miningRateOfTheShip);
 
-            Console.WriteLine("Ore Per Minute: " + result+"\nPress Enter To Exit");
+            Console.WriteLine("Ore Per Minute: " + result+"\nOre Per Hour: "+result * 60f + "\nPress Enter To Exit");
             Console.ReadLine();
 
 
