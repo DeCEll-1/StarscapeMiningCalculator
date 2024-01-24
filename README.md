@@ -1,0 +1,1 @@
+run the exe under \SSMinerCalculator\SSMinerCalculator\bin\Debug

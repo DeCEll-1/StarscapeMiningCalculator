@@ -1,0 +1,14 @@
+C:\Users\poedx\source\repos\SSMinerCalculator\SSMinerCalculator\bin\Debug\SSMinerCalculator.exe.config
+C:\Users\poedx\source\repos\SSMinerCalculator\SSMinerCalculator\bin\Debug\SSMinerCalculator.exe
+C:\Users\poedx\source\repos\SSMinerCalculator\SSMinerCalculator\bin\Debug\SSMinerCalculator.pdb
+C:\Users\poedx\source\repos\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.csproj.AssemblyReference.cache
+C:\Users\poedx\source\repos\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\poedx\source\repos\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.exe
+C:\Users\poedx\source\repos\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.pdb
+C:\Users\poedx\OneDrive\Belgeler\GitHub\StarscapeMiningCalculator\SSMinerCalculator\SSMinerCalculator\bin\Debug\SSMinerCalculator.exe.config
+C:\Users\poedx\OneDrive\Belgeler\GitHub\StarscapeMiningCalculator\SSMinerCalculator\SSMinerCalculator\bin\Debug\SSMinerCalculator.exe
+C:\Users\poedx\OneDrive\Belgeler\GitHub\StarscapeMiningCalculator\SSMinerCalculator\SSMinerCalculator\bin\Debug\SSMinerCalculator.pdb
+C:\Users\poedx\OneDrive\Belgeler\GitHub\StarscapeMiningCalculator\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.csproj.AssemblyReference.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\StarscapeMiningCalculator\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\StarscapeMiningCalculator\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.exe
+C:\Users\poedx\OneDrive\Belgeler\GitHub\StarscapeMiningCalculator\SSMinerCalculator\SSMinerCalculator\obj\Debug\SSMinerCalculator.pdb
